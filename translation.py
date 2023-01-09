@@ -1,6 +1,6 @@
 import detectlanguage
 from detectlanguage import simple_detect
-detectlanguage.configuration.api_key = "61d5f7102a99c4bbe12f57176b066f10"
+detectlanguage.configuration.api_key = "2IrL8LLBK9iST6nwDFzYr4F1mkH_238vabyp48CG3tKRXM4GZ"
 from chat import get_response
 
 
